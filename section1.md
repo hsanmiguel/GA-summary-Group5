@@ -2,14 +2,13 @@ CCS General Assembly & Kumustahan
 Section 1: Introduction & SRA Retention + Upcoming Events
 
 SRA Retention
-- Finish SRA right away if manageable
-
+- If possible, finish SRA on time to prevent blockage from major subjects in 3rd yr
 - Consequence: Blocked from major subjects if not finished within 2 years
 - If short on time: Take it during intersession
 
 Upcoming Events
 - CCS Week: October 13–16, 2025
-- Triple A Festival now known as Ateneo Arts + Algorithms
+- Triple A Festival Ateneo Arts + Algorithms
 
 LA'AD 2023 Previous events:
 - Tech Talks ft. Bryl Lim
