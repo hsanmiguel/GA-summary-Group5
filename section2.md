@@ -1,34 +1,27 @@
-👤 Student 2 – BITS, Officer Tactics & AWS
+Section 2 – BITS, Officer Tactics & AWS
 
 BITS
-
 Finding of 1st year level representative
 
-Officer Tactics
+Officer Tactics - Filing of COCs: August 18–22, 2025
 
-Filing of COCs: August 18–22, 2025
+//If you win as a year level representative while being a member of BITS you will have to resign from BITS 
 
 AWS (Amazon Web Services)
 
-Cloud Clubs | Ateneo de Naga University
-
-First AWS Club in Bicol Region
+Cloud Clubs | Ateneo de Naga University and the First AWS Club in Bicol Region
 
 Cloud computing = storing/accessing data online (not on local hard drive)
 
 Powers nearly everything online
 
-Student Community Day
+Student Community Day 
 
-GCash
+CSG (Computer Studies Guild For Innovation, Learning and Development)
+Famous Companies - TD, GCash, Whitecloak
 
-Whitecloak
+Student Hub - s12d.com/students
 
-Student Hub
+AWS Builder Cards - A card game tournament where the points are based on how good your system architecture that you build through using the cards.
 
-s12d.com/students
-
-AWS Builder Cards
-
-shorturl.at
-s12d.com
+shorturl.at - Forms for registering in AWS
