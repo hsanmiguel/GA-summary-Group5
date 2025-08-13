@@ -1,4 +1,5 @@
 Overview
+
 This repository contains resources, notes, and announcements from the CCS General Assembly & Kumustahan for Academic Year 2025–2026. It serves as a centralized reference for updates, events, and student-led initiatives within the College of Computer Studies at Ateneo de Naga University.
 
 Key Highlights
